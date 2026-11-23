@@ -1,6 +1,6 @@
 # Spider-Man theme for Eitr
 
-A dark [Eitr](https://eitr.info) theme with Spider-Man art: Spider red and web blue on night navy, with 4 wallpapers.
+A dark [Eitr](https://eitr.info) theme with Spider-Man art: Spider red and web blue on night navy, with 5 wallpapers.
 
 ![Preview](spider-man/preview.png)
 
